@@ -1,5 +1,5 @@
 # Site title
-title = "Andromeda"
+title = "Dottie's Reading and Travel Channel"
 base_url = "https://andromeda-theme.netlify.app"
 description = "Photography journal theme for Zola"
 compile_sass = true
@@ -12,6 +12,6 @@ header_links = [
     {name = "Blog", url = "https://andromeda-theme.netlify.app"}
 ]
 license = "CC BY-NC 2.0"
-email = "jane@doe.com"
-name = "Jane Doe"
+email = "dotties.channel@gmail.com"
+name = "Dottie"
 # favicon = "/images/favicon.ico"
