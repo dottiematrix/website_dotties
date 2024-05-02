@@ -12,6 +12,6 @@ header_links = [
     {name = "Blog", url = "https://andromeda-theme.netlify.app"}
 ]
 license = "CC BY-NC 2.0"
-email = "dotties.channel@gmail.com"
+email = "dotties.channel<at>gmail.com"
 name = "Dottie"
 # favicon = "/images/favicon.ico"
